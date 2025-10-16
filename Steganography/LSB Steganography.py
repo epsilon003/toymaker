@@ -2,7 +2,7 @@
 """
 LSB Steganography Tool for CTF Challenge Creation
 Usage:
-    python stego_tool.py encode input.png "picoCTF{your_flag}" output.png
+    python stego_tool.py encode input.png "CTF{your_flag}" output.png
     python stego_tool.py decode stego_image.png
 """
 
